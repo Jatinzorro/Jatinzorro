@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Jatinzorro
-- 👀 I’m interested in ...Java Programming
-- 🌱 I’m currently learning ...Data Structure and Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...jatinsharma02100@gmail.com
+- 👋 Hi, My Name is Jatin Sharma
+- 👀 I’m interested in Java Programming
+- 🌱 I’m currently learning Data Structure and Algorithms
+- 📫 Let's Connect-> jatinsharma02100@gmail.com
 
 <!---
 Jatinzorro/Jatinzorro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
