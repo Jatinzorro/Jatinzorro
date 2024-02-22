@@ -1,5 +1,5 @@
 - 👋 Hi, My Name is Jatin Sharma
-- 👀 I’m interested in Java Programming
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 📫 Let's Connect-> jatinsharma02100@gmail.com
 
